@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ReadersPalette_SangkitVer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="book_title">Sambit Book</string>
+    <string name="search">search\n</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comment">Comment</string>
+    <string name="review">Add Comment</string>
+    <string name="write_your_review_here">Comment</string>
+    <string name="description">Deskripsi Buku</string>
+    <string name="title">Judul Buku</string>
+    <string name="year">2007</string>
+    <string name="author">Liang Sambit</string>
+    <string name="publisher">Sambedia</string>
+    <string name="genre">kafkaesque</string>
+    <string name="menu_buku">Buku</string>
+    <string name="menu_penulis">Penulis</string>
+    <string name="menu_penerbit">Penerbit</string>
+    <string name="menu_logout">Logout</string>
+    <string name="kategori">Kategori</string>
+    <string name="genre2">Genre</string>
+    <string name="searchbar_hint">Cari Buku</string>
+</resources>
